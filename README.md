@@ -47,7 +47,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Architecture
-* ![alt text](https://github.com/Edin93/AirBnB_clone_v3/blob/master/documentation/architecture.png)
+![alt text](https://github.com/Edin93/AirBnB_clone_v3/blob/master/documentation/architecture.png)
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
