@@ -1,4 +1,17 @@
-# Learning Objectives
+# AirBnB Clone - The Console
+
+## Author Description
+* I'm a software engineering student at Holberton School, with 2 years of experience in Javascript web technologies.
+* I'm mostly confident with JavaScript (MERN Stack) and Python and I'm looking for a full time software engineering job.
+* You can reach me out on:
+	- [Twitter](https://twitter.com/h_edin93)
+	- [LinkedIn](https://www.linkedin.com/in/houssem-eddine-ben-khalifa-b0a2a412b/)
+	- [Email](mailto:il_matador@hotmail.fr)
+
+## Project Description
+The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+
+## Learning Objectives
 * What REST means
 * What API means
 * What CORS means
@@ -11,31 +24,36 @@
 * Which is the HTTP method to delete resource
 * How to request Rest API
 
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
-
-#### Functionalities of this command interpreter:
+## Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
 * Do operations on objects (count, compute stats, etc...)
 * Update attributes of an object
 * Destroy an object
 
+## Newest project version
+[AirBnB_v4](https://github.com/AmineNeifer/AirBnB_clone_v4)
+
 ## Table of Content
+* [Architecture](#architecture)
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
+* [Screenshots](#screenshots)
 * [Bugs](#bugs)
 * [Authors](#authors)
 * [License](#license)
+
+## Architecture
+* ![alt text](https://github.com/Edin93/AirBnB_clone_v3/documentation/architecture.png)
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone https://github.com/Edin93/AirBnB_clone_v3`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -162,6 +180,10 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+
+## Screenshots
+![alt text](https://github.com/Edin93/AirBnB_clone_v3/documentation/web0.jpg)
+![alt text](https://github.com/Edin93/AirBnB_clone_v3/documentation/web1.jpg)
 
 ## Bugs
 No known bugs at this time.
